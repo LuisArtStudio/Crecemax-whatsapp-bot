@@ -1,0 +1,17 @@
+# Ignore the .git directory
+.git/
+
+# Ignore logs
+*.log
+
+# Ignore local environment variables
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build directory
+build/
+
+# Ignore macOS-specific files
+.DS_Store
